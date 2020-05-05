@@ -2,7 +2,7 @@
 To **make a same format of numpy array filled with random number(0.xxx)**
 
 ## How to use
-Use ``` numpy.random.random_sample(numpy.array()) ```.
+Use ``` numpy.random.random_sample(numpy.array().shape) ```.
 
 ## Examples
 ### ex1) 
