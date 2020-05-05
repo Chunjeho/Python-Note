@@ -33,7 +33,7 @@ print(a)
 ```
 
 ## At a glance
-* : essential
+\* : essential
 
 ```
 numpy.array(*object, dtype=None, ndmin=0 ...)
@@ -48,4 +48,4 @@ numpy.array(*object, dtype=None, ndmin=0 ...)
 
 * ndim: Same as asking "How many dimensions you want?". 
 
-for more detail visit: https://numpy.org/doc/stable/reference/generated/numpy.array.html?highlight=array#numpy.array
+For other parameters visit: https://numpy.org/doc/stable/reference/generated/numpy.array.html?highlight=array#numpy.array
