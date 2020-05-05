@@ -1,5 +1,5 @@
-# Numpy
-Learn numpy
+# Numpy Note
+Learn numpy.
 
 ## Why I made this?
 1. Summarize my **Numpy** knowledge.
