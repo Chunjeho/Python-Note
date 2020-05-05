@@ -38,14 +38,14 @@ print(a)
 ```
 numpy.array(*object, dtype=None, ndmin=0 ...)
 ```
-* object: array that anything you want.
+* object: **array that anything you want.**
 
   ex) [1, 2, 3], [1.0, 2.0, 3.0], [[10, 40, 50], [90, 50, 40]]
   
-* dtype: data type. (quite a different from python data type, it's more simple than that)
+* dtype: **data type.** (quite a different from python data type, it's more simple than that)
 
   ex) dtype='int8', dtype='int16', dtype='int32', dtype='float16' ... (The number after the data type represents the bits that you'll goona use.) 
 
-* ndim: Same as asking "How many dimensions you want?". 
+* ndim: **Same as asking "How many dimensions you want?".**
 
 For other parameters visit: https://numpy.org/doc/stable/reference/generated/numpy.array.html?highlight=array#numpy.array
