@@ -27,7 +27,7 @@ print(a.ndim)
 ```
 import numpy as np
 
-a = np.array([1,2,3], ndim = 2)
+a = np.array([1,2,3], ndmin = 2)
 print(a.ndim)
 ```
 [OUT 02]
