@@ -8,5 +8,5 @@ with plt.xkcd():
 
     plt.title("Heart-Bit")
     plt.plot(xs,ys, color="blue")
-    plt.savefig('heart-bit.png')
+    plt.savefig('HeartBit.png')
     plt.show()
