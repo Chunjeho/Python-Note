@@ -16,10 +16,10 @@ with plt.xkcd():
     fp = np.divide(dy, dx)
 
     plt.plot(x1,y1,'k', label='f(x) = 0')
-    plt.plot(x[0:9999],y[0:9999],'g', label="f(x)")
+    plt.plot(x[0:10000],y[0:10000],'g', label="f(x)")
     plt.plot(x[0:9999],fp,'r', label="f'(x)")
 
-    plt.title("x/(x^2+1)")
+    plt.title('$\mathit{f(x)=}$' + r'$\frac{x}{x^{2}+1}$')
     plt.xlabel("x")
     plt.ylabel("f(x)")
 
