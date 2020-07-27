@@ -1,4 +1,4 @@
-# Python Web Scrapping NO.1
+# Python Web Scrapping Project NO.1
 
 ## About this project
 
