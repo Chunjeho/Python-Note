@@ -13,4 +13,4 @@ I use ``` requests ``` and ``` BeautifulSoup ``` to scrap a python related jobs 
 More than **4600 jobs** (precisely, 4666 jobs) are existed in those websites. (JUL/21/2020)
 
 ## Other
-You can see a job table by downloading pythonJobs.xlsx or jobs.csv fule
+You can see a job table by downloading pythonJobs.xlsx or jobs.csv file
