@@ -8,7 +8,8 @@
 - To find a **future prospect of python**
 
 ## How & Result
-I use ``` requests ``` and ``` BeautifulSoup ``` to scrap a python related jobs at **Indeed** and **Stackoverflow**.
+I use ``` requests ``` and ``` BeautifulSoup ``` module to scrap a python related jobs at **Indeed** and **Stackoverflow**.
+Also, I use ``` csv ``` module to save it in a table
 
 More than **4600 jobs** (precisely, 4666 jobs) are existed in those websites. (JUL/21/2020)
 
