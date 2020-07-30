@@ -1,7 +1,7 @@
-# UK Colleges Coputer Science Curriculum (Undergraduate)
+# Python Web Scrapping Project No.2
 
 ## About this project
-Compare computer science curriculum among uk colleges(universities).
+Compare computer science curriculums among uk colleges(universities).
 
-## Purpose
+## Why I start this project
 To find some unique features of each universities.
