@@ -24,7 +24,7 @@ def UniInfo():
         uniName = uniNameRow.find("td", {"class":"c-table__data--name"})
 
         if uniName is not None:
-            uniName = uniName.find("a").string
+            uniName = uniName.find("a").get_text(strip = True)
             uniNames.append(uniName)
 
         else:
@@ -32,9 +32,9 @@ def UniInfo():
 
     for i in range(len(uniNames)):
         links = uniLinkRows[i].find_all("a", {"class":"c-course-list__course-link"})
-        
+
         for link in links:
-            cs.append({"University":uniNames[i], "Course":link.get_text(), "link":link["href"]})
+            cs.append({"University":uniNames[i], "Course":link.get_text(strip = True), "link":link["href"]})
 
         _curriculum.append(cs)
     

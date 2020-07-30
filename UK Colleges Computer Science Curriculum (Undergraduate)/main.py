@@ -1,5 +1,6 @@
 from ComputerScience import UniInfo
+from save import save_to_file
 
 curriculum = UniInfo()
 
-print(len(curriculum))
+save_to_file(curriculum)
